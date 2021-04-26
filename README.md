@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Galandis
-- 👀 I’m interested in algorythmic trading and machine learning.
+- 👀 I’m interested in algorithmic trading and machine learning.
 - 🌱 I’m currently learning above.
 
 <!---
